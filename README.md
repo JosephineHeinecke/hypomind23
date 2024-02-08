@@ -1,8 +1,7 @@
-#Preregistration ExPrak HypoMind-23  
+Preregistration ExPrak HypoMind-23  
 
-AsPredicted Questions (version 2.00) 
  
-<p>) Data collection. Have any data been collected for this study already?</p>  
+<p> 1) Data collection. Have any data been collected for this study already?</p>  
 <p>No, no data have been collected for this study yet.</p>
 
 <p>2) Hypothesis. What's the main question being asked or hypothesis being 
@@ -62,9 +61,10 @@ condition.
 We will be excluding participants with knowledge of the Iowa Gambling Task. 
 We will be excluding participants scoring in the middle third of the HPS. </p>
 
-<p> 7) Sample Size. How many observations will be collected or what will 
-determine sample size? No need to justify decision, but be precise about exactly how the number will be determined. 
-We will admit participants and collect data until January 16, 2024. Sample size will be 
+<p> 7) Sample Size.How many observations will be collected or what will 
+determine sample size? No need to justify decision, but be precise about exactly how the number will be determined. </p>
+
+<p> We will admit participants and collect data until January 16, 2024. Sample size will be 
 determined by participants admitted.</p>
 
 <p> 8) Other. Anything else you would like to pre-register?  (e.g., secondary analyses, variables collected for exploratory purposes, unusual analyses planned?) </p>
@@ -77,8 +77,10 @@ resources for additional information or support will be provided upon request. <
 
 <p> HypoMind-23-Experiment: EXPRAK G5 (Gruppe 4) 2023/24 HU Berlin – Exploring the 
 Influence of Hypomanic Traits on the Ability to Delay Short-Term Gratification to Achieve 
-Long-Term Rewards: A Modified Iowa Gambling Task Experiment 
-Finally. For record keeping purposes, please tell us the type of study you are 
-pre-registering. 
-Experiment </p>
+Long-Term Rewards: A Modified Iowa Gambling Task Experiment </p>
+
+<p> Finally. For record keeping purposes, please tell us the type of study you are 
+pre-registering. </p>
+
+<p> Experiment </p>
 
